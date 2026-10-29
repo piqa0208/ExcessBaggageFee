@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cute gurlie palette -->
+    <color name="pink_primary">#F48FB1</color>
+    <color name="pink_dark">#EC407A</color>
+    <color name="pink_light">#FCE4EC</color>
+    <color name="lavender">#CE93D8</color>
+    <color name="lavender_light">#F3E5F5</color>
+    <color name="text_dark">#6D2E46</color>
+</resources>

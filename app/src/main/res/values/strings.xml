@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Piqa\'s Baggage Calc</string>
+
+    <!-- Main screen -->
+    <string name="header_title">✈️ Hi cutie! Let\'s check your baggage 🎀</string>
+    <string name="notice_text">💡 Economy = 20 kg free, Business = 40 kg free. 8% SST is added to the excess charge.</string>
+    <string name="how_to_title">📖 How to use</string>
+    <string name="how_to_steps">📖 How to use: enter weight, pick class, enter rate, then tap Calculate 💖</string>
+    <string name="lbl_weight">🧳 Weight (kg)</string>
+    <string name="hint_weight">e.g. 25</string>
+    <string name="lbl_class">🎫 Ticket Class</string>
+    <string name="lbl_rate">💸 Rate/kg (RM)</string>
+    <string name="hint_rate">e.g. 15</string>
+    <string name="btn_calculate">💖 Calculate Fee</string>
+    <string name="lbl_summary">🎀 Summary Output</string>
+    <string name="lbl_excess_weight">Excess Weight:</string>
+    <string name="default_weight">0.0 kg</string>
+    <string name="lbl_excess_charge">Excess Charge:</string>
+    <string name="default_price">RM 0.00</string>
+    <string name="lbl_total_payable">Total Payable (incl. 8% SST):</string>
+    <string name="msg_default">Fill in the details above, then tap Calculate ✨</string>
+
+    <!-- Menu / share -->
+    <string name="action_share">Share</string>
+    <string name="action_about">About</string>
+    <string name="share_chooser">Share via</string>
+    <string name="share_text">Try this cute Excess Baggage Fee calculator app! 🎀✈️ %1$s</string>
+    <string name="app_url">https://github.com/piqa0208/ExcessBaggageFee</string>
+
+    <!-- About page -->
+    <string name="about_title">About</string>
+    <string name="about_app_desc">An app to estimate excess baggage fees for air travel, made with love 💕</string>
+    <string name="about_dev_header">👩‍💻 Developer</string>
+    <string name="about_name">Noor Afiqah binti Noor Ahmad</string>
+    <string name="about_student_no">Student No: 2024806856</string>
+    <string name="about_group">Group: RCDCS2405A</string>
+    <string name="about_programme">Programme Code: CS240</string>
+    <string name="about_course">Course: ICT602 Mobile Technology</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_website_label">🌐 Website (GitHub):</string>
+    <string name="about_copyright">© 2026 Noor Afiqah binti Noor Ahmad. All rights reserved.</string>
+</resources>

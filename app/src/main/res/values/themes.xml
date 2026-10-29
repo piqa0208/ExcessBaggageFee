@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Light-only cute theme -->
+    <style name="Base.Theme.ExcessBaggageFee" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/pink_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/pink_light</item>
+        <item name="colorOnPrimaryContainer">@color/text_dark</item>
+        <item name="colorSecondary">@color/lavender</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/pink_dark</item>
+        <item name="android:windowBackground">@color/pink_light</item>
+        <item name="android:textColorLink">@color/pink_dark</item>
+    </style>
+
+    <style name="Theme.ExcessBaggageFee" parent="Base.Theme.ExcessBaggageFee" />
+</resources>
